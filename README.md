@@ -2,12 +2,12 @@
 
 Welcome to the **Car Sales Data Analysis with Python** repository! This project showcases the power of Python and Jupyter Notebooks in analyzing car sales data. From visualizations to insights, this repository is a one-stop destination for exploring car sales trends and making data-driven decisions.
 
----
+----
 
 ## 📋 Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
+- [Features](#features) 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
